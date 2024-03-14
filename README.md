@@ -2,4 +2,4 @@
 This is for git practice 
 
 
-Author -Srinidhi
+Author -Srinidhi.R
